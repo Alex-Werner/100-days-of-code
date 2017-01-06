@@ -1,5 +1,31 @@
 # I've joined the #100DaysOfCode Challenge.
 
+#Projects (Will work on some of them, all of them, another.... subject to change, will see.)
+- Creating a new app :
+    * I want to create a new app which will be add to the Scrum methodology some Pomodoro functionnalities 
+    * Project/task management
+    * Online/offline
+    * Able to be used on phonegap :D
+    * Universal React
+
+- About messaging/architecture : I will use this challenge to do something with messaging system in JS (ZMQ..)
+    * A wrapper able to unite different messaging protocol (ZMQ, RabbitMQ, Socket.io, and so go on...).
+
+- About Artificial Intelligence : Will try to learn more about machine learning, search algorithm, automated reasoning,... idealy :
+    * A simple test using Natural Language processing on Financial Headlines.
+    * Then, I would like to build an adaptive system, able to tweak itself, applied to financial analysis of cryptocurrency
+    * Able to predict a price movement
+    * Able to tell me which is the trending cryptocurrency
+    * Nice to have : Can be use in global market  
+    * I allow myself to use all tools I can find for this project
+
+- About API : Trying to level-up my API/global knowledge with something about this
+    * RESTful API
+    * SOAP API
+    * XML-RPC
+    * JSON-RPC
+    * I want to build that from scratch using as little external soft/package as possible
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
